@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cff159dd-2343-45f3-95f5-55d4eeae5a9c": {
+      "ProjectGuid": "cff159dd-2343-45f3-95f5-55d4eeae5a9c",
+      "DisplayName": "WAWA ORDER",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

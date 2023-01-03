@@ -1,0 +1,40 @@
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\Images\wawalogo.png
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.exe
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.deps.json
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.runtimeconfig.json
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.runtimeconfig.dev.json
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.dll
+C:\Users\kelem\source\repos\WAWA ORDER\bin\Debug\net5.0-windows\WAWA ORDER.pdb
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.csproj.AssemblyReference.cache
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Beverages_Window5.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Breakfast_Window1.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Hotdrinks Window4.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Lunches and Dinner_Window2.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Soups_and_Sides_Window6.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER_Content.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER_MarkupCompile.cache
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER_MarkupCompile.lref
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Beverages_Window5.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Breakfast_Window1.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Hotdrinks Window4.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Lunches and Dinner_Window2.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Soups_and_Sides_Window6.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.g.resources
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.AssemblyInfoInputs.cache
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.AssemblyInfo.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.csproj.CoreCompileInputs.cache
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.dll
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\ref\WAWA ORDER.dll
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.pdb
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\WAWA ORDER.genruntimeconfig.cache
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Hot_and_Cold_subwin.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Hot_and_Cold_subwin.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Sides Wind Menu.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Soups menu.g.cs
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Sides Wind Menu.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\Soups menu.baml
+C:\Users\kelem\source\repos\WAWA ORDER\obj\Debug\net5.0-windows\refint\WAWA ORDER.dll

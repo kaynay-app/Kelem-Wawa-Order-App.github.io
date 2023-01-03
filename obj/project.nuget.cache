@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpLyeCB8LjfwPVwuYwc57jM1M4PEOIDIw3DKb5A+Zaruv6sxtXYrN/aqoexWC9rssvZbywiOpHAMCtpDGRfIMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelem\\source\\repos\\WAWA ORDER\\WAWA ORDER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

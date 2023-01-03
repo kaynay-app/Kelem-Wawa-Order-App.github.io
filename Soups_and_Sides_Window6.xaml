@@ -1,0 +1,16 @@
+﻿<Window x:Class="WAWA_ORDER.Soups_and_Sides_Window6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WAWA_ORDER"
+        mc:Ignorable="d"
+        Title="Soups_and_Sides_Window6" Height="450" Width="800" Background="Wheat" ResizeMode="NoResize">
+    <Grid>
+        <Image x:Name="imgSoups_menu" HorizontalAlignment="Left" Height="179" Margin="125,107,0,0" VerticalAlignment="Top" Width="195" Source="C:\Users\kelem\source\repos\WAWA ORDER\Images\soups_and_sidesImage.png" MouseDown="imgSoups_menu_MouseDown"/>
+        <Label x:Name="lblsoups_menu" Content="Soups" HorizontalAlignment="Left" Margin="196,273,0,0" VerticalAlignment="Top" Width="75" Background="White" FontSize="20" Foreground="#ab1b2c" FontFamily="High Tower"/>
+        <Image x:Name="imgsidesmenu" HorizontalAlignment="Left" Height="147" Margin="456,120,0,0" VerticalAlignment="Top" Width="283" Source="C:\Users\kelem\source\repos\WAWA ORDER\Images\sides1.png" MouseDown="imgsidesmenu_MouseDown"/>
+        <Label x:Name="lblsides_menu" Content="Sides" HorizontalAlignment="Left" Margin="560,273,0,0" VerticalAlignment="Top" Width="75" Background="White" FontSize="20" Foreground="#ab1b2c" FontFamily="High Tower"/>
+        <Button x:Name="btnClose_Soups_and_Side_Wind" Content="GO BACK" HorizontalAlignment="Left" Margin="561,350,0,0" VerticalAlignment="Top" Width="109" Background="Red" FontSize="20" Foreground="White" FontFamily="High Tower Text" Click="btnClose_Soups_and_Side_Wind_Click"/>
+    </Grid>
+</Window>

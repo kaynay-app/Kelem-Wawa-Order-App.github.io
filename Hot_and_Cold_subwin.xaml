@@ -1,0 +1,17 @@
+﻿<Window x:Class="WAWA_ORDER.Hot_and_Cold_subwin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WAWA_ORDER"
+        mc:Ignorable="d"
+        Title="Hot_and_Cold_subwin" Height="450" Width="800" ResizeMode="NoResize" Background="Wheat">
+    <Grid>
+        <Image x:Name="imgcoldMenu" HorizontalAlignment="Left" Height="193" Margin="121,90,0,0" VerticalAlignment="Top" Width="196" Source="C:\Users\kelem\source\repos\WAWA ORDER\Images\colddrink2.png" MouseDown="imgcoldMenu_MouseDown"/>
+        <Label x:Name="lblcoldMenu" Content="Cold Drinks" HorizontalAlignment="Left" Margin="152,279,0,0" VerticalAlignment="Top" Background="White" FontSize="20" Foreground="#ab1b2c" FontFamily="High Tower Text"/>
+        <Image x:Name="imgHotMenu" HorizontalAlignment="Left" Height="193" Margin="498,90,0,0"  VerticalAlignment="Top" Width="196" Source="C:\Users\kelem\source\repos\WAWA ORDER\Images\hotdrinks.png" MouseDown="imgHotMenu_MouseDown"/>
+        <Label x:Name="lblhotMenu" Content="Hot Drinks" HorizontalAlignment="Left" Margin="533,279,0,0" VerticalAlignment="Top" Background="White" FontSize="20" Foreground="#ab1b2c" FontFamily="High Tower Text"/>
+        <Button x:Name="btnBack" Content="GO BACK" HorizontalAlignment="Left" Margin="556,350,0,0" VerticalAlignment="Top" Background="Red" FontSize="20" Foreground="White" FontFamily="High Tower Text" Click="btnBack_Click"/>
+
+    </Grid>
+</Window>

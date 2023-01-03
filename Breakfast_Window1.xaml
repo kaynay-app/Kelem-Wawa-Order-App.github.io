@@ -1,0 +1,27 @@
+﻿<Window x:Class="WAWA_ORDER.Breakfast_Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WAWA_ORDER"
+        mc:Ignorable="d"
+        Title="Breakfast_Window1" Height="450" Width="800" Background="Wheat" Icon="C:\Users\kelem\source\repos\WAWA ORDER\Images\wawaIcon.png">
+    <Grid>
+        <ListView x:Name="lstvBreakfast_menu" d:ItemsSource="{d:SampleData ItemCount=5}" ItemsSource="{Binding myBreakfast_Menu}" Margin="35,25,485,170" SelectionChanged="lstvBreakfast_menu_SelectionChanged" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Item}" Header="Item" Width="150"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Price}" Header="Price" Width="150"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+
+        </ListView>
+        <ListBox x:Name="lstBreakfast_Receipt" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="482,25,38,170" DisplayMemberPath="Item">
+
+        </ListBox>
+        <Button x:Name="btnRemove_Item" Content="Remove Item" HorizontalAlignment="Left" Margin="549,269,0,0" VerticalAlignment="Top" Width="124" Background="White" FontSize="20" Foreground="#ab1b2c" FontFamily="High Tower Text" Click="btnRemove_Item_Click"/>
+        <Button x:Name="btnClose_hoagies" Content="GO BACK" HorizontalAlignment="Left" Margin="561,350,0,0" VerticalAlignment="Top" Width="109" Background="Red" FontSize="20" Foreground="White" FontFamily="High Tower Text" Click="btnClose_hoagies_Click"/>
+        <Button x:Name="btnCalcbreakWin1" Content="Finish Oder" HorizontalAlignment="Left" Margin="337,269,0,0" VerticalAlignment="Top" Width="109" Background="Red" FontSize="20" Foreground="White" FontFamily="High Tower Text" Click="btnCalcbreakWin1_Click"/>
+
+    </Grid>
+</Window>
